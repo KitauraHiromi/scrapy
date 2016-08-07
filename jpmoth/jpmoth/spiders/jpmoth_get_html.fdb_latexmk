@@ -1,0 +1,13 @@
+# Fdb version 3
+["dvipdf"] 0 "jpmoth_get_html.dvi" "jpmoth_get_html.pdf" "jpmoth_get_html" 0
+  "jpmoth_get_html.dvi" 0 -1 0 "latex"
+  (generated)
+  "jpmoth_get_html.pdf"
+["latex"] 1456844361 "jpmoth_get_html.py" "jpmoth_get_html.dvi" "jpmoth_get_html" 1456844362
+  "c:/w32tex/share/texmf-dist/web2c/eptex/platex.fmt" 1390221236 3978581 ef1c84fd07984c5a49eed80e2a58e93a ""
+  "c:/w32tex/share/texmf-dist/web2c/texmf.cnf" 1389618394 30167 a3acc024d76f988495b0e0e87b0f9e12 ""
+  "jpmoth_get_html.aux" 1456843759 9 a94a2480d3289e625eea47cd1b285758 ""
+  "jpmoth_get_html.py" 1456844359 585 c0461ea5d0cc5e61ae8e01b65d843114 ""
+  (generated)
+  "jpmoth_get_html.dvi"
+  "jpmoth_get_html.log"
